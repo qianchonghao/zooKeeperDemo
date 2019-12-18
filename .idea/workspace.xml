@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49515b40-c75d-42ef-a13a-587b52689835" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UkC8dUUyUeOsT71Xk2Ciz4pA7A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NettyRpc" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.DistributeServer">
+    <configuration name="DistributeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.zookeeper0529.DistributeClient" />
+      <module name="com.zooKeeper.Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.zookeeper0529.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributeServer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.zookeeper0529.DistributeServer" />
+      <module name="com.zooKeeper.Demo" />
+      <option name="PROGRAM_PARAMETERS" value="hadoop103" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.zookeeper0529.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZookeeper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.zooKeeper.Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.zookeeper0529.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.zookeeper0529" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.zookeeper0529.TestZookeeper" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DistributeServer" />
+      <item itemvalue="Application.DistributeClient" />
+      <item itemvalue="JUnit.TestZookeeper" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DistributeClient" />
+        <item itemvalue="JUnit.TestZookeeper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49515b40-c75d-42ef-a13a-587b52689835" name="Default Changelist" comment="" />
+      <created>1575891047293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575891047293</updated>
+      <workItem from="1575891051127" duration="4407000" />
+      <workItem from="1575901017036" duration="3325000" />
+      <workItem from="1575940018668" duration="8364000" />
+      <workItem from="1576639449539" duration="3364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="185" key="#Project_Structure" timestamp="1575942716633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="185" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1575942716633" />
+    <state x="0" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575947127640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575947127640" />
+    <state x="162" y="278" key="FileChooserDialogImpl" timestamp="1575947726711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="162" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575947726711" />
+    <state width="1217" height="203" key="GridCell.Tab.0.bottom" timestamp="1575952923195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1217" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575952923195" />
+    <state width="1217" height="203" key="GridCell.Tab.0.center" timestamp="1575952923195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1217" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575952923195" />
+    <state width="1217" height="203" key="GridCell.Tab.0.left" timestamp="1575952923195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1217" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575952923195" />
+    <state width="1217" height="203" key="GridCell.Tab.0.right" timestamp="1575952923195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1217" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575952923195" />
+    <state x="4" y="169" key="SettingsEditor" timestamp="1575892655827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575892655827" />
+    <state x="179" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1575940160405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="179" y="332" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575940160405" />
+    <state x="316" y="277" key="extract.method.dialog" timestamp="1575942766382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="316" y="277" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575942766382" />
+    <state x="111" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1575946619738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="111" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575946619738" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_zooKeeper_Demo$DistributeServer.ic" NAME="DistributeServer Coverage Results" MODIFIED="1575946442930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.zookeeper0529.*</FILTER>
+    </SUITE>
+  </component>
+</project>
